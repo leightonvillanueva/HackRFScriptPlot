@@ -1,0 +1,1 @@
+hackrf_transfer -r test -f 50500000 -n 1024 -s 2400000 -g 10
